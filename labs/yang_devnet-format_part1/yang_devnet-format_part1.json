@@ -7,7 +7,9 @@
     {"title": "NETCONF"},
     {"title": "YANG"},
     {"title": "Networking"},
-    {"title": "SDN"}
+    {"title": "SDN"},
+    {"title": "NX-OS"},
+    {"title": "Data Center"}
   ],
   "files": [
     {"title": "1.md"},
