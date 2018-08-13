@@ -29,6 +29,6 @@
   "authors": [
     {"name": "Hank Preston", "email": "hapresto@cisco.com"}
   ],
-  "active": true,
+  "active": false,
   "byod": true
 }
